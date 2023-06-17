@@ -1,0 +1,27 @@
+.App {
+  margin:0;
+  padding:0;
+
+}
+.container{
+  margin:100px;
+  background-color: cornflowerblue;
+  height: 700px;
+  width: 700px;
+  display:flex;
+}
+.btn{
+
+  margin:5px;
+
+}
+.maindiv{
+  background-color:azure;
+  margin:10px;
+  padding: 10px;
+  border-color: black;
+  border-radius: 10px;
+  width:650px;
+  height: 400px;
+  
+}
